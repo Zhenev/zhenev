@@ -3,7 +3,7 @@
 
 - 🔭 I’m passionate about **revealing interdependencies and the ways they can be employed to make a meaningful impact.**
 
-- 🌱 I’m currently learning **Bayesian inference and development on cloud services (AWS)**
+- 🌱 I’m currently learning **Bayesian inference and development on cloud services (AWS).**
 
 - 👯 I’m looking to collaborate on **industrial process analysis and diagnostics.**
 
