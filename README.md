@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **my journey as a Data Scientist.**
 
-- 📫 How to reach me **zheniya.mogilevski@gmail.com**
+- 📫 Reach me via **zheniya.mogilevski@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
