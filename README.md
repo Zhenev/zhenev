@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **my journey as a Data Scientist.**
 
-- 📫 Reach me via **zheniya.mogilevski@gmail.com.**
+- 📫 Reach me out via **zheniya.mogilevski@gmail.com.**
 
 - ⚡ Fun facts: **Michael Jackson's first concert in Moscow, back in 1993, was the first ever non-classical concert I attended. It was only after I wrote this line that I learned why it has become possible at all for me as a kid who took herself to the concert venue in the hope to hear something from the outside.**
 
