@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zheniya.</h1>
-<h3 align="center">I build tools to help chemical manufacturers to use the sensor data from automated metering systems to track carbon footprint of concrete batches and concrete ton of every product.</h3>
+<h3 align="center">I build tools to help chemical manufacturers to use the sensor data from automated metering systems to track carbon footprint of specific batches and specific ton of every product.</h3>
 
 - 🔭 I’m passionate about **revealing interdependencies and the ways they can be employed to make a meaningful impact.**
 
