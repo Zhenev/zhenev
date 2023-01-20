@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zheniya.</h1>
-<h3 align="center">I build tools to help chemical manufacturers to finally use the accumulated sensor data, drill down into batches and process steps, to monitor, and perform diagnostics of GHG emissions for every product and every ton of it.</h3>
+<h3 align="center">I build tools to help chemical manufacturers to use the accumulated sensor data, drill down into batches and process steps, and to monitor and perform diagnostics of GHG emissions for every ton of every product.</h3>
 
 - 🔭 I’m passionate about **revealing interdependencies and the ways they can be employed to make a meaningful impact.**
 
