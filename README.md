@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Zheniya.</h1>
 <h3 align="center">I build data-driven applications, including service design, prototyping, back-end development, and integration.</h3>
 
-- 📐 My specialization: **sensor data, time series.**
+- 📐 My specialization: **IIoT, time series.**
 
 - 💎 My favorite project: **Building a module helping chemical manufacturers to use the sensor data from automated metering systems to track carbon footprint of specific batches and specific ton of every product.** 
 
