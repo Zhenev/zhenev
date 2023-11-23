@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Bayesian inference and development on cloud services (AWS).**
 
-- 👯 I’m looking to collaborate on **industrial process analysis and diagnostics.**
+- 👯 I’m looking to collaborate on **soil biome research**.
 
 - 🌍 I'm based in **Israel**.
 
