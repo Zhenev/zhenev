@@ -10,7 +10,7 @@
 
 🌱 I’m currently learning **Bayesian inference and development on cloud services (AWS).**
 
-👯 I’m looking to collaborate on **soil biome research**.
+👯 I’m looking to collaborate on **soil microbiome research**.
 
 🌍 I'm based in **Israel**.
 
